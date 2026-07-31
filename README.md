@@ -1,119 +1,121 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm Finley FA
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,50:928DAB,100:00C9FF&height=220&section=header&text=FINLEY%20FA&fontSize=75&fontColor=FFFFFF&animation=fadeIn"/>
+<h3 align="center">
+  Information Systems Student | Business Analyst | HCM Intern | Web Developer
+</h3>
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Information+Systems+Student;HCM+Intern;Business+Analyst+Intern;Web+Developer;Digital+Transformation+Enthusiast"/>
-
-
-<br>
-
-
-<img src="https://komarev.com/ghpvc/?username=FynsF&label=Profile+Views&color=00C9FF&style=for-the-badge"/>
-
-
-</div>
-
-
-<br>
-
-
-# 👋 Hello, I'm Finley FA
-
-
-<div align="center">
-
-**Information Systems Student | HCM Intern | Business Analyst Intern | Web Developer**
-
-📍 Medan, Indonesia
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Information+Systems+Student;Business+Analyst+Enthusiast;Web+Developer;Digital+Transformation+Explorer"/>
+</p>
 
 
 ---
 
-# 👨‍💻 Professional Profile
+## 👨‍💻 About Me
 
+Hello! I'm **Finley FA**, an active **Information Systems student at Universitas Prima Indonesia**.
 
-I am an active **Bachelor of Information Systems student at Universitas Prima Indonesia** with professional internship experience in **Human Capital Management (HCM)** and **Business Consulting**.
+I have professional experience in:
 
+- Human Capital Management (HCM)
+- Business Analysis
+- Data Management
+- Web Development
+- Digital Business Transformation
 
-I have experience in:
-
-- Employee data management
-- Business process analysis
-- Operational administration
-- Web-based system development
-- Database management
-- Digital business transformation
-
-
-I am interested in developing technology solutions that connect **business needs, data, and information systems**.
+Currently exploring how technology can improve business processes through data-driven solutions and system development.
 
 
 ---
 
-# 💼 Internship Experience
+## 💼 Professional Experience
 
-
-## 🏢 HCM Intern
-
-### Prima Vision
-
+### 🏢 HCM Intern — Prima Vision
 📅 March 2026 - August 2026
 
+Responsibilities:
 
-My responsibilities:
-
-
-✔ Managing Human Capital Management administration
-
-✔ Updating and processing employee data
-
-✔ Preparing employee performance evaluation recapitulation
-
-✔ Monitoring employee attendance data
-
-✔ Managing lateness, working hours, and overtime monitoring
-
-✔ Creating HR documentation and administrative reports
+- Managing Human Capital Management administration
+- Updating and processing employee data
+- Preparing employee performance evaluation reports
+- Monitoring attendance, working hours, and overtime data
+- Creating structured HR documentation
 
 
----
-
-## 📊 Business Consultant Intern
-
-### APINDO x Kotama Shoes
-
+### 📊 Business Consultant Intern — APINDO x Kotama Shoes
 📅 August 2025 - December 2025
 
+Responsibilities:
 
-My responsibilities:
-
-
-✔ Analyzing stock and pre-order data
-
-✔ Supporting operational evaluation for UMKM
-
-✔ Helping create Standard Operating Procedures (SOP)
-
-✔ Improving business processes
-
-✔ Supporting digital administration transformation
-
-✔ Supporting digital marketing strategy development
-
+- Analyzing stock and pre-order data
+- Supporting business process improvement
+- Developing SOP documentation
+- Supporting digital transformation strategies
 
 
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
 
 
-## 💳 Web-Based Digital Payment & Game Top-Up Platform
+### 💳 Web-Based Digital Payment & Game Top-Up Platform
+
+A web-based platform for digital transactions.
+
+Features:
+
+✅ Product catalog  
+✅ WhatsApp ordering integration  
+✅ QRIS payment support  
+✅ Product & transaction database management  
+
+Tech:
+
+`HTML` `CSS` `JavaScript` `MySQL`
 
 
-A web-based digital payment platform designed to support game top-up transactions.
+---
+
+### 🏪 Web-Based Point of Sales (POS) System
+
+A web application designed to simplify sales operations.
+
+Features:
+
+✅ Product management  
+✅ Stock management  
+✅ Transaction recording  
+✅ Digital receipt system  
+
+Tech:
+
+`HTML` `CSS` `JavaScript` `MySQL`
 
 
-### Features
+---
+
+### 🍽️ Android Restaurant Menu Application
+
+Interactive Android application for restaurant menu management.
+
+Tech:
+
+`Android Studio`
+`Java/Kotlin`
+
+
+---
+
+## 🛠️ Technical Skills
+
+
+### Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,git,github,androidstudio,vscode"/>
+</p>
+
+
+### Business & System Skills
