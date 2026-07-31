@@ -174,24 +174,20 @@ An Android-based application designed to deliver a modern digital menu experienc
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=FynsF&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    width="48%"
+  />
 
-<img width="48%" 
-src="https://github-readme-stats.vercel.app/api?username=FynsF&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=FynsF&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img width="70%"
-src="https://github-profile-trophy.vercel.app/?username=FynsF&theme=tokyonight&no-frame=true&column=6"/>
-
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=FynsF&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 ---
