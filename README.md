@@ -3,119 +3,112 @@
 </h1>
 
 <h3 align="center">
-  Information Systems Student | Business Analyst | HCM Intern | Web Developer
+  Information Systems Student · Business Analyst Intern · HCM Intern · Web Developer
 </h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Information+Systems+Student;Business+Analyst+Enthusiast;Web+Developer;Digital+Transformation+Explorer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00A8FF&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Business+Analysis+Enthusiast;Human+Capital+Management;Web+Developer;Digital+Transformation+Explorer"/>
 </p>
 
 
----
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=FynsF&label=Profile%20Views&color=00A8FF&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/FynsF?label=Followers&style=flat&color=00A8FF"/>
+
+</p>
+
+
+<br>
+
 
 ## 👨‍💻 About Me
 
+
 Hello! I'm **Finley FA**, an active **Information Systems student at Universitas Prima Indonesia**.
 
-I have professional experience in:
-
-- Human Capital Management (HCM)
-- Business Analysis
-- Data Management
-- Web Development
-- Digital Business Transformation
-
-Currently exploring how technology can improve business processes through data-driven solutions and system development.
+I have professional experience through internship programs in **Human Capital Management (HCM)** and **Business Consulting**, with interests in building digital solutions through the combination of business analysis, data management, and web development.
 
 
----
+### Focus Areas
 
-## 💼 Professional Experience
-
-### 🏢 HCM Intern — Prima Vision
-📅 March 2026 - August 2026
-
-Responsibilities:
-
-- Managing Human Capital Management administration
-- Updating and processing employee data
-- Preparing employee performance evaluation reports
-- Monitoring attendance, working hours, and overtime data
-- Creating structured HR documentation
+- 💼 Human Capital Management (HCM)
+- 📊 Business Analysis
+- 🗄️ Data Management
+- 🌐 Web Development
+- 🔄 Digital Business Transformation
 
 
-### 📊 Business Consultant Intern — APINDO x Kotama Shoes
-📅 August 2025 - December 2025
+Currently exploring how information systems can improve business processes through structured data management and technology solutions.
 
-Responsibilities:
-
-- Analyzing stock and pre-order data
-- Supporting business process improvement
-- Developing SOP documentation
-- Supporting digital transformation strategies
 
 
 ---
 
-## 🚀 Featured Projects
+# 💼 Professional Experience
 
 
-### 💳 Web-Based Digital Payment & Game Top-Up Platform
+## 🏢 HCM Intern — Prima Vision
 
-A web-based platform for digital transactions.
-
-Features:
-
-✅ Product catalog  
-✅ WhatsApp ordering integration  
-✅ QRIS payment support  
-✅ Product & transaction database management  
-
-Tech:
-
-`HTML` `CSS` `JavaScript` `MySQL`
+**March 2026 - August 2026**
 
 
----
-
-### 🏪 Web-Based Point of Sales (POS) System
-
-A web application designed to simplify sales operations.
-
-Features:
-
-✅ Product management  
-✅ Stock management  
-✅ Transaction recording  
-✅ Digital receipt system  
-
-Tech:
-
-`HTML` `CSS` `JavaScript` `MySQL`
+Supporting Human Capital Management operations through:
 
 
----
+- Employee data updating and management
+- Performance evaluation recapitulation
+- Attendance and overtime monitoring
+- HR administrative documentation
+- Operational reporting support
 
-### 🍽️ Android Restaurant Menu Application
 
-Interactive Android application for restaurant menu management.
 
-Tech:
+<br>
 
-`Android Studio`
-`Java/Kotlin`
+
+## 📊 Business Consultant Intern — APINDO x Kotama Shoes
+
+**August 2025 - December 2025**
+
+
+Supporting business improvement initiatives through:
+
+
+- Stock and pre-order data analysis
+- Business process evaluation
+- SOP development
+- Digital administration improvement
+- Digital marketing strategy support
+
 
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 Featured Projects
 
 
-### Programming & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,git,github,androidstudio,vscode"/>
-</p>
+<div align="center">
 
 
-### Business & System Skills
+## 💳 Digital Payment & Game Top-Up Platform
+
+</div>
+
+
+A web-based digital transaction platform designed to support game top-up services.
+
+
+### Key Features
+
+| Feature | Description |
+|---|---|
+| Product Catalog | Product listing management |
+| WhatsApp Integration | Customer ordering support |
+| QRIS Payment | Digital payment support |
+| Database System | Product and transaction management |
+
+
+**Technology Stack**
