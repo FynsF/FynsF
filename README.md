@@ -1,103 +1,213 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Finley+FA;Information+Systems+Student;Business+Analyst+%26+Tech+Enthusiast;Web+Developer+%7C+Digital+Transformation+Explorer" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  👋 Hi, I'm Finley FA
+</h1>
 
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/finley-fa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.finleyfa792@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/6281269441924">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</div>
-
-<br/>
-
----
-
-## 🧑‍💼 Professional Summary
-
-A highly motivated **Information Systems** undergraduate at **Universitas Prima Indonesia**, blending a strong technical foundation with hands-on experience in **Human Capital Management (HCM)**, **Business Analysis**, and **Web Development**.
-
-Proven track record in streamlining HR operations, driving data-informed business strategies, and engineering web-based solutions that enhance organizational efficiency. Currently dedicated to leveraging technology to architect seamless digital transformations.
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Human Capital Management Intern
-**PT. Prima Vision** | *March 2026 – August 2026*
-
-- Orchestrated end-to-end HCM administrative operations, ensuring data integrity across employee lifecycle records.
-- Compiled and analyzed comprehensive employee performance evaluation reports to support strategic workforce planning.
-- Monitored key metrics including attendance, productivity hours, and overtime, delivering actionable insights to management.
-- Developed and maintained a structured, compliant, and accessible digital HR documentation system.
-
-### 📊 Business Consultant Intern
-**APINDO x Kotama Shoes** | *August 2025 – December 2025*
-
-- Conducted in-depth analysis of stock and pre-order data to identify bottlenecks and optimize inventory turnover.
-- Spearheaded business process improvement initiatives by formalizing and documenting Standard Operating Procedures (SOPs).
-- Assisted in the development and implementation of digital transformation strategies, enhancing operational agility.
-
----
-
-## 🚀 Featured Projects
-
-### 💳 Digital Payment & Game Top-Up Platform
-*A full-stack web-based platform facilitating seamless digital product transactions.*
-
-- **Core Features:** Product catalog management, automated WhatsApp ordering integration, QRIS payment gateway support.
-- **Data Handling:** Robust product and transaction database administration using MySQL.
-- **Technology Stack:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🏪 Point of Sales (POS) System
-*A sleek web application engineered to streamline retail operations and sales workflows.*
-
-- **Core Modules:** Dynamic product and stock management, real-time transaction recording, and digital receipt generation.
-- **Impact:** Simplified complex sales processes for improved accuracy and operational transparency.
-- **Technology Stack:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🍽️ Restaurant Menu Application
-*An interactive mobile application built on Android Studio, redefining the digital dining experience.*
-
-- **Functionality:** Intuitive UI for menu browsing, categorization, and presentation management.
-- **Technology Stack:** ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
----
-
-## 🛠️ Technical Arsenal
-
-### Programming & Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,java,kotlin,git,github,androidstudio,vscode&theme=light" alt="Tech Stack"/>
-</p>
-
-### Business & System Competencies
-`Business Process Analysis` `SOP Documentation` `Workforce Analytics` `Digital Transformation Strategy` `HCM Systems` `Data-Driven Decision Making` `System Design`
-
----
-
-## 📈 GitHub Statistics
+<h3 align="center">
+  Information Systems Student | Business Analyst | HCM Intern | Web Developer
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FynsF&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FynsF&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Digital+Solutions+with+Technology;Business+%2B+Technology+Integration;Exploring+Digital+Transformation;Turning+Ideas+into+Impactful+Systems" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/FynsF">
+    <img src="https://img.shields.io/github/followers/FynsF?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+  </a>
+  <a href="mailto:your.finleyfa792@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/finley-fa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Finley%20FA-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://wa.me/6281269441924">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=for-the-badge&logo=whatsapp"/>
+  </a>
+</p>
+
+
 ---
 
-## 🌐 Let's Connect
+# 🚀 About Me
 
-I am always open to discussing new opportunities, collaborations, and innovative ideas. Let's connect and explore how we can drive value together through technology.
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FynsF&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Visitors&color=00A8FF&style=flat-square" alt="Profile View Counter"/>
-  <br/>
-  <em>"Building bridges between business needs and technology solutions."</em>
-</div>
+
+I am an **Information Systems student at Universitas Prima Indonesia** with a passion for combining **business strategy, technology, and digital innovation**.
+
+My interests focus on:
+
+- 📊 Business Analysis & Process Improvement
+- 👥 Human Capital Management (HCM)
+- 💻 Web Application Development
+- 🔄 Digital Transformation
+- 📈 Data-driven Decision Making
+
+
+I believe technology is not only about building systems, but also about creating solutions that generate measurable business impact.
+
+
+<br clear="right"/>
+
+
+---
+
+# 💼 Professional Experience
+
+
+## 🏢 Human Capital Management Intern  
+### PT. Prima Vision  
+**March 2026 - August 2026**
+
+- Managed employee administration processes and maintained accurate HR data records.
+- Supported workforce analytics through attendance, productivity, and overtime monitoring.
+- Prepared employee performance reports to assist management decision-making.
+- Improved HR documentation workflow through structured digital record management.
+
+
+---
+
+## 📊 Business Consultant Intern  
+### APINDO × Kotama Shoes  
+**August 2025 - December 2025**
+
+- Analyzed inventory and pre-order data to identify operational improvement opportunities.
+- Developed business process documentation and standardized SOP workflows.
+- Supported digital transformation initiatives to improve operational efficiency.
+- Provided analytical insights for better business decision-making.
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 💳 Digital Payment & Game Top-Up Platform
+
+A full-stack web platform designed to simplify digital product transactions.
+
+### Key Features:
+✅ Product Management  
+✅ Transaction Database  
+✅ WhatsApp Order Integration  
+✅ QRIS Payment Support  
+
+### Tech Stack:
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,mysql"/>
+
+
+---
+
+## 🏪 Point Of Sales (POS) System
+
+A modern retail management system focused on improving sales efficiency.
+
+### Features:
+
+- Product & inventory management
+- Transaction recording
+- Digital receipt generation
+- Sales workflow optimization
+
+
+### Tech Stack:
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,mysql"/>
+
+
+---
+
+## 🍽️ Restaurant Menu Application
+
+Android application designed to provide an interactive digital menu experience.
+
+### Features:
+
+- Digital menu browsing
+- Food categorization
+- User-friendly mobile interface
+
+
+### Tech Stack:
+
+<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin"/>
+
+
+---
+
+# 🛠️ Technology Stack
+
+
+### Languages & Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,mysql,git,github,vscode,androidstudio"/>
+</p>
+
+
+### Business & System Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Business%20Analysis-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HCM%20System-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOP%20Documentation-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Transformation-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-20C997?style=for-the-badge"/>
+
+</p>
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=FynsF&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FynsF&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=FynsF&theme=tokyonight&no-frame=true&row=1"/>
+
+</p>
+
+
+---
+
+# 📈 Contribution Activity
+
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FynsF&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
+---
+
+# 🌐 Let's Connect
+
+
+<p align="center">
+
+I'm always open to collaboration, technology discussions,  
+and opportunities related to **Business, IT, and Digital Innovation**.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=FynsF&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
+
+<br><br>
+
+<b>
+"Connecting business challenges with technology solutions."
+</b>
+
+</p>
