@@ -87,9 +87,8 @@ Proven track record in streamlining HR operations, driving data-informed busines
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FynsF&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FynsF&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
-
 ---
 
 ## 🌐 Let's Connect
