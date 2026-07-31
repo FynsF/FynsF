@@ -179,6 +179,12 @@ An Android-based application designed to deliver a modern digital menu experienc
 # 📊 GitHub Analytics
 
 <p align="center">
+<img 
+src="https://github-readme-stats.vercel.app/api?username=FynsF&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+</p>
+
+<p align="center">
  
 
   <img 
