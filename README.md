@@ -161,7 +161,7 @@ An Android application focused on delivering a modern and interactive digital di
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,mysql,git,github,vscode,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,mysql,git,github,vscode,androidstudio"/>
 
 </p>
 
