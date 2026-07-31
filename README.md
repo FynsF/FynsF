@@ -1,48 +1,109 @@
-<!-- ================= HEADER ================= -->
+<!-- =========================
+     PROFILE HEADER
+========================= -->
 
-<h1 align="center">
-  Hi 👋, I'm Finley FA
-</h1>
+<div align="center">
 
-
-<h3 align="center">
-  🚀 Information Systems Student | 💼 Business Analyst | 🌐 Web Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Finley%20FA&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Information+Systems+Student;Business+Analysis+Enthusiast;Web+Developer;Building+Digital+Solutions"/>
-
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Business+Analyst+Enthusiast;HCM+%26+Data+Management;Web+Developer;Digital+Transformation+Explorer"/>
 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=FynsF&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+📍 Medan, Indonesia  
+🎓 Information Systems Student  
+💼 HCM Intern | Business Analyst Intern  
+🌐 Web Developer  
+
+</div>
 
 
 
-<!-- ================= ABOUT ================= -->
+---
 
-<h2>
-👨‍💻 About Me
-</h2>
+# 👨‍💻 About Me
 
 
-```yaml
-Name: Finley FA
-Location: Medan, Indonesia
-Education: Information Systems Student
-University: Universitas Prima Indonesia
+Hello, I'm **Finley FA**.
 
-Role:
-  - Business Analyst
-  - HCM Intern
-  - Web Developer
+I am an Information Systems student passionate about combining **business understanding, data management, and software development** to create digital solutions.
 
-Interest:
-  - Digital Transformation
-  - Business Information System
-  - Data Management
-  - Web Application Development
+My interests focus on:
+
+- Business Information Systems
+- Web Application Development
+- Data Management
+- Human Capital Management
+- Digital Transformation
+
+
+---
+
+# 💼 Experience
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+
+### 🏢 HCM Intern
+### Prima Vision
+
+**March 2026 - August 2026**
+
+- Employee data management
+- Performance evaluation reporting
+- Attendance monitoring
+- Overtime analysis
+- HR documentation
+
+
+</td>
+
+
+<td width="50%">
+
+
+### 📊 Business Consultant Intern
+### APINDO x Kotama Shoes
+
+**August 2025 - December 2025**
+
+- Business process analysis
+- Stock data analysis
+- SOP development
+- Digital transformation support
+
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 💳 Digital Payment & Game Top-Up Platform
+
+
+A web-based digital transaction platform.
+
+
+**Features**
